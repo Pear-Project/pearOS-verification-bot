@@ -1,0 +1,11 @@
+[
+  {
+    "messageId": "976456584915992606",
+    "channelId": "781250547591938058",
+    "removeReaction": false,
+    "policy": "any",
+    "emojiRoleMap": {
+      "765977599247122472": ["766003484247326742"]
+    }
+  }
+]
